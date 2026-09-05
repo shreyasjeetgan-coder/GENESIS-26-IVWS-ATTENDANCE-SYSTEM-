@@ -1,0 +1,6 @@
+{
+  "name": "School RFID Attendance & Access System",
+  "description": "Centralized student entry and exit tracking with RFID tag management, live reader terminal, and real-time attendance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
